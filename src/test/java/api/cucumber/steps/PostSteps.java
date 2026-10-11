@@ -11,6 +11,7 @@ public class PostSteps {
     public void userShouldBeLoggedInAndShouldBePresentAtItsOwnWall() {
         System.out.println("userShouldBeLoggedInAndShouldBePresentAtItsOwnWall");
         System.out.println("ABC Test");
+        System.out.println("This demo is for git  rebase");
     }
 
     @When("I type the message in the text box")
