@@ -8,7 +8,7 @@ import io.cucumber.java.en.When;
 public class PostSteps {
 
     @Given("User should be logged in and should be present at its own wall")
-    public void userShouldBeLoggedInAndShouldBePresentAtItsOwnWall() {
+    public voids userShouldBeLoggedInAndShouldBePresentAtItsOwnWall() {
         System.out.println("userShouldBeLoggedInAndShouldBePresentAtItsOwnWall");
         System.out.println("ABCDEF ");
         System.out.println("This demo is for git  rebase");
