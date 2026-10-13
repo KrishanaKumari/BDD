@@ -10,7 +10,7 @@ public class PostSteps {
     @Given("User should be logged in and should be present at its own wall")
     public void userShouldBeLoggedInAndShouldBePresentAtItsOwnWall() {
         System.out.println("userShouldBeLoggedInAndShouldBePresentAtItsOwnWall");
-        System.out.println("ABC Testssssss");
+        System.out.println("ABC ");
         System.out.println("This demo is for git  rebase");
     }
 
